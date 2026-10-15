@@ -16,4 +16,5 @@
 - Document de strategie de test.pdf
 - Exigence de la poc.pdf
 - Validation des principes d'architecture.pdf 
+- Reporting resultats PoC MedHead.pdf
 
