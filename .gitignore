@@ -1,2 +1,24 @@
 .~lock.*
 *.odt
+
+# macOS
+.DS_Store
+
+# Java / Maven
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# JMeter - journaux d’exécution
+jmeter.log
